@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <main className="relative w-full overflow-x-hidden">
       <HeroSection />
-      <GSAPRefresh />;
+      <GSAPRefresh />
       <Info />
       <FeatureContainer />
       <Contact />
